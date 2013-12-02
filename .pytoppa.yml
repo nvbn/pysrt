@@ -1,0 +1,7 @@
+dependencies:
+  - charade
+releases:
+  - saucy
+  - precise
+  - quantal
+  - raring
